@@ -1,0 +1,17 @@
+player = record {
+    clubId: string;
+    email: string;
+	gender: string;
+	hcp: string;
+	imageUrl: string;
+	lastName: string;
+	firstName: string;
+	phone: string;
+	slope: string;
+	ts: string;
+}
+
+playerMapper = interface +c {
+	static create(): playerMapper;
+	get_player(json: string): player;
+}

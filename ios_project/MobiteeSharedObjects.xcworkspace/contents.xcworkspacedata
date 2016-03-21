@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MobiteeSharedObjectsClient/MobiteeSharedObjectsClient.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MobiteeSharedObjects/../../cpp_project/MobiteeSharedObjects/MobiteeSharedObjects.xcodeproj">
+   </FileRef>
+</Workspace>
